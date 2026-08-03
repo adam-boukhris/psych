@@ -264,6 +264,7 @@ export const episodes = [
     url: "https://pub-cd7652ee7bdc492e8d882082e9c2b3b2.r2.dev/season%202%2FPsych%20-%20Enqu%C3%AAteur%20Malgr%C3%A9%20Lui%20-%202X16%20-%20Une%20Nuit%20Au%20Mus%C3%A9e-Shanks%40Zone-Telechargement.Ws(1).mp4",
     status: 'unwatched'
   },
+  //season 3
   {
     "id": 30,
     "series": "Psych",
